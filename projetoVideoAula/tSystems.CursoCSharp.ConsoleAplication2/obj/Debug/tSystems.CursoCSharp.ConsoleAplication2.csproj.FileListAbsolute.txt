@@ -1,0 +1,7 @@
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\projetoVideoAula\tSystems.CursoCSharp.ConsoleAplication2\bin\Debug\tSystems.CursoCSharp.ConsoleAplication2.exe.config
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\projetoVideoAula\tSystems.CursoCSharp.ConsoleAplication2\bin\Debug\tSystems.CursoCSharp.ConsoleAplication2.exe
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\projetoVideoAula\tSystems.CursoCSharp.ConsoleAplication2\bin\Debug\tSystems.CursoCSharp.ConsoleAplication2.pdb
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\projetoVideoAula\tSystems.CursoCSharp.ConsoleAplication2\obj\Debug\tSystems.CursoCSharp.ConsoleAplication2.csproj.AssemblyReference.cache
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\projetoVideoAula\tSystems.CursoCSharp.ConsoleAplication2\obj\Debug\tSystems.CursoCSharp.ConsoleAplication2.csproj.CoreCompileInputs.cache
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\projetoVideoAula\tSystems.CursoCSharp.ConsoleAplication2\obj\Debug\tSystems.CursoCSharp.ConsoleAplication2.exe
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\projetoVideoAula\tSystems.CursoCSharp.ConsoleAplication2\obj\Debug\tSystems.CursoCSharp.ConsoleAplication2.pdb
