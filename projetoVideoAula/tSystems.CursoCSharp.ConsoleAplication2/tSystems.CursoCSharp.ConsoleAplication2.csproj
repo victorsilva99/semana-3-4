@@ -49,11 +49,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\tSystems.CursoCSharp.ConsoleAplication\tSystems.CursoCSharp.ConsoleAplication.csproj">
-      <Project>{74f009d5-a93d-43c3-8a66-f9609eae677d}</Project>
-      <Name>tSystems.CursoCSharp.ConsoleAplication</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -48,12 +48,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Pessoa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\tSystems.CursoCSharp.ConsoleAplication2\tSystems.CursoCSharp.ConsoleAplication2.csproj">
+      <Project>{23715eff-2847-41a9-a699-4741fe411d64}</Project>
+      <Name>tSystems.CursoCSharp.ConsoleAplication2</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using tSystems.CursoCSharp.ConsoleAplication;
+
 
 namespace tSystems.CursoCSharp.ConsoleAplication2
 {
