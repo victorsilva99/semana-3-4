@@ -12,3 +12,13 @@
 - Iniciado projeto exemplo do curso
 - Finalizado Projeto Exemplo
 - Iniciado leitura do Livro
+
+## DIA 3
+
+- Continua√√o Leitura do Livro
+- Realiza√√o das atividades
+
+## DIA 4
+
+- Continua√√o da leitura do livro
+- Criado projeto biblioteca, referente ao livro
