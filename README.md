@@ -8,17 +8,16 @@
 
 ## DIA 2
 
-- Finalizado parte teorica curso b√°sico C
+- Finalizado parte te√≥rica curso b√°sico C
 - Iniciado projeto exemplo do curso
 - Finalizado Projeto Exemplo
 - Iniciado leitura do Livro
 
 ## DIA 3
 
-- Continua√√o Leitura do Livro
-- Realiza√√o das atividades
+- Continua√ß√£o Leitura do Livro
+- Realiza√ß√£o das atividades
 
 ## DIA 4
 
-- Continua√√o da leitura do livro
 - Criado projeto biblioteca, referente ao livro
