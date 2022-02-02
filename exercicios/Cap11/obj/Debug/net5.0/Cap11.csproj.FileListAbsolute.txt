@@ -1,0 +1,14 @@
+C:\Users\fe605\Documents\VictorSilva\semana-3-4\Cap11\bin\Debug\net5.0\Cap11.exe
+C:\Users\fe605\Documents\VictorSilva\semana-3-4\Cap11\bin\Debug\net5.0\Cap11.deps.json
+C:\Users\fe605\Documents\VictorSilva\semana-3-4\Cap11\bin\Debug\net5.0\Cap11.runtimeconfig.json
+C:\Users\fe605\Documents\VictorSilva\semana-3-4\Cap11\bin\Debug\net5.0\Cap11.runtimeconfig.dev.json
+C:\Users\fe605\Documents\VictorSilva\semana-3-4\Cap11\bin\Debug\net5.0\Cap11.dll
+C:\Users\fe605\Documents\VictorSilva\semana-3-4\Cap11\bin\Debug\net5.0\ref\Cap11.dll
+C:\Users\fe605\Documents\VictorSilva\semana-3-4\Cap11\bin\Debug\net5.0\Cap11.pdb
+C:\Users\fe605\Documents\VictorSilva\semana-3-4\Cap11\obj\Debug\net5.0\Cap11.csproj.AssemblyReference.cache
+C:\Users\fe605\Documents\VictorSilva\semana-3-4\Cap11\obj\Debug\net5.0\Cap11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fe605\Documents\VictorSilva\semana-3-4\Cap11\obj\Debug\net5.0\Cap11.csproj.CoreCompileInputs.cache
+C:\Users\fe605\Documents\VictorSilva\semana-3-4\Cap11\obj\Debug\net5.0\Cap11.dll
+C:\Users\fe605\Documents\VictorSilva\semana-3-4\Cap11\obj\Debug\net5.0\ref\Cap11.dll
+C:\Users\fe605\Documents\VictorSilva\semana-3-4\Cap11\obj\Debug\net5.0\Cap11.pdb
+C:\Users\fe605\Documents\VictorSilva\semana-3-4\Cap11\obj\Debug\net5.0\Cap11.genruntimeconfig.cache

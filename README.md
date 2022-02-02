@@ -20,4 +20,25 @@
 
 ## DIA 4
 
+- Continuação Leitura do Livro
 - Criado projeto biblioteca, referente ao livro
+
+## DIA 5
+
+- Continuação Leitura do Livro C#
+- Exercícios práticos
+
+## DIA 6
+
+- Continuação Leitura do Livro C#
+- Exercícios práticos
+
+## DIA 7
+
+- Continuação Leitura do Livro C#
+- Exercícios práticos
+
+## DIA 8
+
+- Finalizado Leitura Livro C#
+- Exercícios práticos

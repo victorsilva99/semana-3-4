@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TSystems.Formulario.WindowsForms.UI/1.0.0": {
+        "runtime": {
+          "TSystems.Formulario.WindowsForms.UI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TSystems.Formulario.WindowsForms.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

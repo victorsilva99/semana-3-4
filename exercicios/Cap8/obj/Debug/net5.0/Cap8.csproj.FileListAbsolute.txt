@@ -1,0 +1,16 @@
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\Cap8\obj\Debug\net5.0\Cap8.csproj.AssemblyReference.cache
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\Cap8\obj\Debug\net5.0\Cap8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\Cap8\obj\Debug\net5.0\Cap8.AssemblyInfoInputs.cache
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\Cap8\obj\Debug\net5.0\Cap8.AssemblyInfo.cs
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\Cap8\obj\Debug\net5.0\Cap8.csproj.CoreCompileInputs.cache
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\Cap8\bin\Debug\net5.0\Cap8.exe
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\Cap8\bin\Debug\net5.0\Cap8.deps.json
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\Cap8\bin\Debug\net5.0\Cap8.runtimeconfig.json
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\Cap8\bin\Debug\net5.0\Cap8.runtimeconfig.dev.json
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\Cap8\bin\Debug\net5.0\Cap8.dll
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\Cap8\bin\Debug\net5.0\ref\Cap8.dll
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\Cap8\bin\Debug\net5.0\Cap8.pdb
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\Cap8\obj\Debug\net5.0\Cap8.dll
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\Cap8\obj\Debug\net5.0\ref\Cap8.dll
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\Cap8\obj\Debug\net5.0\Cap8.pdb
+C:\Users\fe605\Documents\Victor Silva\semana-3-4\Cap8\obj\Debug\net5.0\Cap8.genruntimeconfig.cache
